@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What services do you provide?",
+        "answer": "We provide fan installation, wiring checks, lighting upgrades, and basic troubleshooting."
+    },
+    {
+        "question": "How can I contact support?",
+        "answer": "You can message here 24/7 or email support@example.com. We reply within one business day."
+    },
+    {
+        "question": "Where are you located?",
+        "answer": "We operate in the local area and accept on-site service bookings."
+    },
+    {
+        "question": "Do you offer product recommendations?",
+        "answer": "Yes! Tell me your budget and desired features and I'll recommend suitable products."
+    },
+    {
+        "question": "What are your opening hours?",
+        "answer": "We are open Monday to Friday from 10 AM to 6 PM, and Saturday from 10 AM to 2 PM."
+    }
+]
